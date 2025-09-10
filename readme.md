@@ -1,4 +1,5 @@
-# Langchain Ask PDF (Tutorial)
+# RAG-based-Document-Q-A-System-with-Vector-Database
+
 
 >You may find the step-by-step video tutorial to build this application [on Youtube](https://youtu.be/wUAUdEw5oxM).
 

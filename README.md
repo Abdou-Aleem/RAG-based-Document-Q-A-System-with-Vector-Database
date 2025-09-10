@@ -1,1 +1,0 @@
-# RAG-based-Document-Q-A-System-with-Vector-Database
